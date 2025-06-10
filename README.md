@@ -6,6 +6,7 @@
 3) download the app.py file
 4) download the video file 
 5) make sure all the the model, video file and app.py file are in same directory
+6) Run The app.py File in Pycharm or VSCode
 
 # Methodologies
 
